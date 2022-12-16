@@ -1,0 +1,27 @@
+.header-bg {
+    background-color: #2E3A46;
+  }
+  img, select {
+      height: 60px;
+      margin: 10px 20px;
+  }
+  .container-page {
+    background-color: #1E2D3B;
+  }
+  .card-page {
+    width: 80%;
+    margin: auto;
+  }
+      
+    .contents {
+      padding: 1rem;
+      background-color: #2E3A46;
+      height: 100%;
+    }
+    .title {
+      color:white;
+      text-transform: uppercase;
+    }
+    .details {
+      color: #81807B;
+    }
