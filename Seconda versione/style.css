@@ -1,27 +1,46 @@
-.header-bg {
-    background-color: #2E3A46;
-  }
-  img, select {
-      height: 60px;
-      margin: 10px 20px;
-  }
-  .container-page {
+.container-page {
     background-color: #1E2D3B;
+}
+img, select {
+    height: 60px;
+    margin: 10px auto;
+}
+.card-page {
+  width: 90% !important;
+  margin: auto !important;
+}
+.contents {
+  padding: 1rem;
+  background-color: #2E3A46;
+  height: 100%;
   }
-  .card-page {
-    width: 80%;
-    margin: auto;
+.details {
+  color: #81807B;
   }
-      
-    .contents {
-      padding: 1rem;
-      background-color: #2E3A46;
-      height: 100%;
+  .title {
+    color:white;
+    text-transform: uppercase;
     }
-    .title {
-      color:white;
-      text-transform: uppercase;
-    }
-    .details {
-      color: #81807B;
-    }
+/* img, select {
+    height: 60px;
+    margin: 10px 20px;
+}
+.container-page {
+  background-color: ;
+}
+.card-page {
+  width: 80%;
+  margin: auto;
+}    
+.contents {
+padding: 1rem;
+background-color: #2E3A46;
+height: 100%;
+}
+.title {
+color:white;
+text-transform: uppercase;
+}
+.details {
+color: #81807B;
+} */
